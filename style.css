@@ -293,11 +293,15 @@ body {
 
 .sobrecontainer {
   background-color: #13131a(4, 155, 219);
-  background-image: url(https://dubrasilsolucoes.com.br/wp-content/uploads/2020/10/logo-dubrasil-rodape-3.png);
+  background-image: url(img/Cópia\ de\ Estoque.png);
   height: 100vh;
   background-position: 88% 50%;
   background-repeat: no-repeat;
+  border-radius: 25%;
+  height: 8rem;
+  width: 8rem;
 }
+
 
 .conteudo {
   max-width: 60rem;
