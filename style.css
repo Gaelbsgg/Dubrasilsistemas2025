@@ -293,7 +293,7 @@ body {
 
 .sobrecontainer {
   background-color: #13131a(4, 155, 219);
-  background-image: url(img/tgalogo2.png);
+  background-image: url(img/24-logo.jpg);
   height: 100vh;
   background-position: 88% 50%;
   background-repeat: no-repeat;
@@ -337,10 +337,11 @@ body {
 
 .tgacontainer {
   background-color: rgb(4, 155, 219);
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aGTiSvzxtO7sDLPInzPnlAMk7Z8ai7jBY5kZVPtXOHPCvRDBXd-J59CgCR1hmGqh2nc&usqp=CAU);
+  background-image: url(img/tgalogo.png);
   height: 100vh;
   background-position: 88% 50%;
   background-repeat: no-repeat;
+  border-radius: 2%;
 }
 
 .conteudo {
