@@ -293,7 +293,7 @@ body {
 
 .sobrecontainer {
   background-color: #13131a(4, 155, 219);
-  background-image: url(img/24-logo.jpg);
+  background-image: url(img/logo-dubrasil.png);
   height: 100vh;
   background-position: 88% 50%;
   background-repeat: no-repeat;
@@ -341,7 +341,7 @@ body {
   height: 100vh;
   background-position: 88% 50%;
   background-repeat: no-repeat;
-  border-radius: 2%;
+  border-radius: 25%;
 }
 
 .conteudo {
