@@ -388,13 +388,51 @@ body {
     padding-top: 2rem;
 }
 
-.conteudos .entrada_nfe .video0 {
+.conteudos .entrada_nfe .video16 {
     width: 100%;
     height: 430px;
     padding-top: 8rem;
 }
 
-.conteudos .entrada_nfe .video0 video {
+.conteudos .entrada_nfe .video16 video {
+    width: 50rem;
+    height: 34rem;
+}
+
+/* Entrega/Retira */
+
+.conteudos .entrega_retira {
+    height: 57rem;
+    width: 99.8%;
+    text-align: center;
+    border: solid #333;
+    border-radius: 10px;
+}
+
+.conteudos .entrega_retira h2 {
+    color: #1E90FF;
+    font-size: 4rem;
+    width: 100%;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.conteudos .entrega_retira p {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 100;
+    line-height: 1.2;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.conteudos .entrega_retira .video17 {
+    width: 100%;
+    height: 430px;
+    padding-top: 8rem;
+}
+
+.conteudos .entrega_retira .video17 video {
     width: 50rem;
     height: 34rem;
 }
